@@ -1,0 +1,275 @@
+.contact{
+    background-color: rgb(1, 1, 1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+.nav-bar{
+    position: fixed;
+  width: 100%;
+  height: 92px;
+  top: 0;
+  left: 0;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 2px #00000040;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav{
+    display:flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.img1{
+    height: 92px;
+    width: auto;
+}
+.home{
+    color: black;
+  font-family: "Jockey One";
+  font-size: 32px;
+  font-weight: 600;
+  left: 200px;
+  position: absolute;
+}
+.achievements{
+    color: black;
+  font-family: "Jockey One";
+  font-size: 32px;
+  font-weight: 600;
+  left: 300px;
+  position: absolute;
+
+}
+.board{
+    color: black;
+    font-family: "Jockey One";
+    font-size: 32px;
+    font-weight: 600;
+    left: 500px;
+    position: absolute;
+
+}
+.contactus{
+    color: black;
+    font-family: "Jockey One";
+    font-size: 32px;
+    font-weight: 600;
+    left: 600px;
+    position: absolute;
+
+}
+.rec {
+    width: 136px;
+    height: 47px;
+    background-color: #d9d9d9;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    left: 600px;
+  }
+
+.text1{
+    font-size: 60px;
+    font-weight: 600;
+    text-align: center;
+    margin: 100px 0;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+
+}
+.part1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    box-sizing: border-box;
+
+}
+.name{
+    margin-left: 5px;
+}
+.email{
+    margin-left:200px
+}
+
+.t1 {
+    color: white;
+    font-family: "Jockey One";
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+.t2{
+    color: white;
+    font-family: "Jockey One";
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+.box1 {
+    width: 100%;
+    
+    background-color: #000;
+    border:2px solid grey;
+    box-sizing: border-box;
+    height: 40px;
+    width:300px
+}
+.part2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 100px;
+
+}
+.t3{
+    color: white;
+    font-family: "Jockey One";
+    font-size: 32px;
+    margin-bottom: 10px;
+
+}
+.t4{
+    color: white;
+    font-family: "Jockey One";
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+.t5{
+    color: white;
+    font-family: "Jockey One";
+    font-size: 32px;
+    margin-bottom: 10px;
+    margin-left: 50%;
+    margin-right: 50%;
+
+
+}
+.box2{
+    width: 100%;
+    
+    background-color: #000;
+    border:2px solid grey;
+    box-sizing: border-box;
+    height: 70px;
+    width:500px;
+    margin-left: 25%;
+    margin-right: 50%;
+    height: 200px;
+    
+
+}
+
+.message-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto;
+}
+
+.submit {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 10px 20px;
+    font-size: 20px;
+    font-family: "Jockey One";
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: 400px;
+    
+    align-self: center;
+    
+
+}
+.details{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 70px;
+}
+.c1{
+    display: flex;
+    flex-direction: column;
+    color:white;
+}
+.team-details{
+    font-size: 30px;
+    font-family: "Josefin Sans";
+
+
+}
+
+.td{
+    padding:10px ;
+    line-height: 2.3;
+    font-size: 20px;
+}
+.title1,.title2,.title3{
+    font-weight: bold;
+
+}
+.tld{
+    padding:10px ;
+    line-height: 2.3;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.c2{
+    display: flex;
+    flex-direction: column;
+    margin-left:80px;
+    
+}
+.map{
+    margin-top:90px;
+   
+   
+}
+.location{
+    font-size: 30px;
+    font-family: "Josefin Sans";
+    color: #ffffff;
+    
+
+}
+.add{
+    color:whitesmoke
+}
+.end{
+    padding: 40px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+
+}
+.i1{
+    
+    height:100px;
+    width:238.24px;
+    margin-left: 10px;
+}
+.i2{
+    height:150px;
+    width:260px;
+    margin-left: 50px;
+}
+.i3{
+    
+    width: 376px;
+    height: 150px;
+
+
+}

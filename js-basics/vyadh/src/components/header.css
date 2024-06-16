@@ -1,0 +1,37 @@
+.nav-bar {
+  width: 100%;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 2px #00000040;
+  display: flex;
+  justify-content: flex-start; 
+  padding: 10px 20px;
+  box-sizing: border-box;
+  position: fixed;
+  top: 0;
+  z-index: 1000;
+}
+
+.img1 img {
+  height: 80px;
+  width: auto;
+  margin-right: 20px; /* Space between logo and links */
+}
+
+.nav-links {
+  display: flex;
+  gap: 20px;
+
+}
+
+.nav-link {
+  color: black;
+  font-family: "Jockey One", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: gray;
+}
+

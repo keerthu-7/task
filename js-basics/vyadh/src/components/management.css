@@ -1,0 +1,38 @@
+.management-domain {
+    background-color: rgb(0, 0, 0);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 20px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .domain-content {
+    line-height: 1.5;
+    background-color: grey;
+    border-radius: 60px 0px 50px 0px;
+    padding: 20px;
+    flex: 1;
+  }
+  
+  .domain-title {
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 5px;
+  }
+  
+  .domain-image {
+    width: 50%;
+    height: auto;
+    object-fit: cover;
+  }
+  
+  .text {
+    font-family: "MuseoModerno-Regular", Helvetica;
+    font-size: 16px;
+    font-family: "Moulpali";
+    line-height: 1.5;
+  }
+  

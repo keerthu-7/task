@@ -1,0 +1,66 @@
+.end {
+    background-color: rgb(131, 128, 128);
+    display: flex;
+    flex-direction: column;
+
+   
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    color: black;
+  
+    
+}
+  .reach-out {
+    font-size: 40px;
+    font-family: "Josefin Sans";
+    width: 100%;
+    text-align: center;
+    margin-bottom: 40px;
+  }
+
+ .info{
+    display: flex;
+    flex-direction: row;
+ } 
+
+  .text7,
+  .text8 {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    font-family: "Josefin Sans";
+    margin: 0px;
+    font-weight: 600;
+  }
+  
+  .insta,
+  .linkedin,
+  .email,
+  .phone {
+    margin: 10px 0;
+    width: 40px;
+    height: 40px;
+  }
+  
+  .email-div,
+  .phone-div {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .text9,
+  .text10 {
+    margin-left: 10px;
+  }
+  
+
+  
+  .logo {
+    height: 150px;
+    width: 190px;
+    margin: 10px;
+  }
+  

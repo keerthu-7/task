@@ -1,0 +1,35 @@
+.about {
+  margin-top: 120px;
+  background-color: #ffffff;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px 20px;
+  box-sizing: border-box;
+}
+
+.group1 {
+  max-width: 45%;
+  padding-right: 20px;
+}
+
+.text-1 {
+  font-family: "MuseoModerno-Regular", Helvetica;
+  font-weight: 500;
+  color: black;
+  font-size: 50px;
+  margin-bottom: 20px;
+}
+
+.welcome-to-team {
+  font-size: 16px;
+  font-family: "Moulpali";
+  line-height: 1.5;
+}
+
+.image-1 {
+  width: 50%;
+  height: auto;
+  object-fit: cover;
+}
